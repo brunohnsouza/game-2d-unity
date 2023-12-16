@@ -1,21 +1,21 @@
 # Game 2D
 
-Projeto da Disciplina de Extensão com objetivo de vivenciar a construção de um game 2D na plataforma Unity
+Projeto da Disciplina de Extensão com objetivo de vivenciar a construção de um game 2D na plataforma Unity!
 
 ![Game2d](.github/game2d.png)
 
-## Índice
+## Índice:
 
 - [Requisitos](#requisitos)
 - [Instalação](#instalação)
 - [Equipe](#equipe)
 - [Licença](#licença)
 
-## Requisitos
+## Requisitos:
 
 - [Unity Hub](https://unity.com/download) v3.6.1 (ou posterior)
 
-## Instalação
+## Instalação:
 
 Siga as etapas abaixo para configurar e instalar o game em seu ambiente local:
 
@@ -25,13 +25,14 @@ Siga as etapas abaixo para configurar e instalar o game em seu ambiente local:
 git clone git@github.com:brunohnsouza/game-2d-unity.git
 cd game-2d-unity
 ```
+
 Observe que uma pasta `GameAV2` foi criada dentro da pasta `game-2d-unity` 
 
 2. Abra seu _**Unity Hub**_ e importe a pasta `GameAV2` 
 
 3. Clique no projeto importado e, após carregar, clique no botão _**play**_
 
-# Equipe
+# Equipe:
 
 - [Edvaldo Vitor](https://github.com/edvaldovitor250)
 - [Arthur Morais](https://github.com/arthur-morais/)
@@ -42,6 +43,6 @@ Observe que uma pasta `GameAV2` foi criada dentro da pasta `game-2d-unity`
 - [Caio Melo](https://github.com/CaioMelo10)
 - [Matheus Sencades](https://github.com/SecondzzMSF)
   
-## Licença
+## Licença:
 
 [MIT](https://choosealicense.com/licenses/mit/)

@@ -2,7 +2,7 @@
 
 Projeto da Disciplina de Extensão com objetivo de vivenciar a construção de um game 2D na plataforma Unity!
 
-![Game2d](.github/game2d.png)
+![Game2d](.github/game2d.png) 
 
 ## Índice:
 
@@ -19,7 +19,7 @@ Projeto da Disciplina de Extensão com objetivo de vivenciar a construção de u
 
 Siga as etapas abaixo para configurar e instalar o game em seu ambiente local:
 
-1. Clone o repositório e acesse o diretório:
+1.Clone o repositório e acesse o diretório:
 
 ```bash
 git clone git@github.com:brunohnsouza/game-2d-unity.git

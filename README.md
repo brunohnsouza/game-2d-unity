@@ -36,7 +36,7 @@ Observe que uma pasta `GameAV2` foi criada dentro da pasta `game-2d-unity`
 
 - [Edvaldo Vitor](https://github.com/edvaldovitor250)
 - [Arthur Morais](https://github.com/arthur-morais/)
-- [Denis Gabriel S. A.](https://github.com/DenisGabriel017)
+- [Denis Gabriel](https://github.com/DenisGabriel017)
 - [Walter Borges](https://github.com/wabpe)
 - [Ednaldo Luiz](https://github.com/EdnaldoLuiz)
 - [Bruno Henrique](https://github.com/brunohnsouza)

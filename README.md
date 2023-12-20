@@ -30,7 +30,7 @@ Observe que uma pasta `GameAV2` foi criada dentro da pasta `game-2d-unity`
 
 2.  Abra seu _**Unity Hub**_ e importe a pasta `GameAV2` 
 
-3.  Clique no projeto importado e, após carregar, clique no botão _**play**
+3.  Clique no projeto importado e, após carregar, clique no botão _**play**_
 
 # Equipe:
 
